@@ -38,12 +38,12 @@ export const CustomComponent: StoryObj<TextProps> = {
   },
   argTypes: {
     children: {
-      control: {
+      table: {
         disable: true,
       },
     },
     asChild: {
-      control: {
+      table: {
         disable: true,
       },
     },
